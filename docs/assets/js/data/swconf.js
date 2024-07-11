@@ -4,13 +4,13 @@ const swconf = {
       '/Personal-Blog/assets/css/jekyll-theme-chirpy.css',
       '/',
 
-        '/categories/',
+        '/Personal-Blog/categories/',
 
-        '/tags/',
+        '/Personal-Blog/tags/',
 
-        '/archives/',
+        '/Personal-Blog/archives/',
 
-        '/about/',
+        '/Personal-Blog/about/',
 
 
 
