@@ -148,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/Personal-Blog" 
+baseurl: "/Personal-Blog"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -223,5 +223,5 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/
+    tag: {{ site.baseurl }}/tags/:name/
     category: {{ site.baseurl }}/categories/:name/
