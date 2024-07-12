@@ -191,7 +191,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: assets/js/dist
+      path: {{ site.baseurl }}/assets/js/dist
     values:
       swcache: true
 
